@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Chikaodiri Agu - [Github](https://github.com/NaGu-Tech)
+Esere Ejenugbor - [Github](https://github.com/Roys77111)
 
 ## License
 Public Domain. No copy write protection. 
